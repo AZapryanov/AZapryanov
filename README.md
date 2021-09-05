@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AZapryanov
+- 👋 Hi, I’m Alexandar Zapryanov
 - 👀 I’m interested in learning new technologies, expanding my knowledge and gaining experience in all aspects of programming.
 - 🌱 I’m currently learning Java, JS and Spring.
