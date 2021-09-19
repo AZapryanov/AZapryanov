@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Alexandar Zapryanov
-- 👀 I’m interested in learning new technologies, expanding my knowledge and gaining experience in all aspects of programming.
-- 🌱 I’m currently learning Java, JS and Spring.
+- Hi, I’m Alexandar Zapryanov
+- I’m interested in learning new technologies, expanding my knowledge and gaining experience in all aspects of programming.
+- I’m currently practicing my skills in Java and learning Spring and JavaScript.
+- Also I am actively searching for an opportunity to start my professional journey in the magnificent world of technology as an intern or junior.
+- The most important thing for me, at this point, is to work for a company whose core values and culture align well with me.
