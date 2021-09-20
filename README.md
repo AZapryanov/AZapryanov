@@ -1,4 +1,4 @@
 - Hi, I’m Alexandar Zapryanov
 - I’m currently practicing my skills in Java and learning Spring and JavaScript.
-- Also I am actively searching for an opportunity to start my professional journey in the magnificent world of technology as an intern or junior.
-- The most important thing for me, at this point, is to work for a company whose core values and culture align well with me.
+- Also, I am eager to begin my professional journey in the magnificent world of technology.
+- The most important thing for me, at this point, is that my own values and work ethic align well with the mission and the core values of the company that I will be working for.
