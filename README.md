@@ -1,4 +1,1 @@
-- Hi, I’m Alexandar Zapryanov
-- I’m currently practicing my skills in Java and learning Spring and JavaScript.
-- Also, I am eager to begin my professional journey in the magnificent world of technology.
-- The most important thing for me, at this point, is that my own values and work ethic align well with the mission and the core values of the company that I will be working for.
+- Hi :)
